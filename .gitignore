@@ -6,6 +6,8 @@ amplify/backend/amplify-meta.json
 
 # dependencies
 /node_modules
+/storybook-static
+/.idea
 
 # testing
 /coverage
